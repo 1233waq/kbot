@@ -1,0 +1,1 @@
+worker: bash unzip_and_run.sh
